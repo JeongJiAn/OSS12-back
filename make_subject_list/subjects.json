@@ -1,0 +1,436 @@
+{
+	"subjects": [
+		{
+			"subject_name": "IT기술영어1",
+			"subject_professor": "AUNAS MANZOOR"
+		},
+		{
+			"subject_name": "IT기술영어2",
+			"subject_professor": "Priyan Malarvizhi Kumar"
+		},
+		{
+			"subject_name": "IT기술영어3",
+			"subject_professor": "AUNAS MANZOOR"
+		},
+		{
+			"subject_name": "IoT소프트웨어",
+			"subject_professor": "조진성"
+		},
+		{
+			"subject_name": "SW스타트업비즈니스",
+			"subject_professor": "서상원"
+		},
+		{
+			"subject_name": "SW스타트업프로젝트",
+			"subject_professor": "서상원"
+		},
+		{
+			"subject_name": "UI/UX프로그래밍",
+			"subject_professor": "전석희"
+		},
+		{
+			"subject_name": "가상/증강현실이론및실습",
+			"subject_professor": "전석희"
+		},
+		{
+			"subject_name": "객체지향프로그래밍",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "객체지향프로그래밍",
+			"subject_professor": "최진우"
+		},
+		{
+			"subject_name": "게임공학",
+			"subject_professor": "강형엽"
+		},
+		{
+			"subject_name": "게임그래픽프로그래밍",
+			"subject_professor": "강형엽"
+		},
+		{
+			"subject_name": "게임엔진기초",
+			"subject_professor": "강형엽"
+		},
+		{
+			"subject_name": "게임콘텐츠캡스톤디자인",
+			"subject_professor": "강형엽"
+		},
+		{
+			"subject_name": "게임콘텐츠캡스톤디자인",
+			"subject_professor": "오승재"
+		},
+		{
+			"subject_name": "게임프로그래밍입문",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "고급데이터마이닝",
+			"subject_professor": "진창호"
+		},
+		{
+			"subject_name": "금융데이터분석",
+			"subject_professor": "김장호"
+		},
+		{
+			"subject_name": "기계학습",
+			"subject_professor": "이원희"
+		},
+		{
+			"subject_name": "기계학습",
+			"subject_professor": "김휘용"
+		},
+		{
+			"subject_name": "기초실감미디어프로그래밍",
+			"subject_professor": "우탁"
+		},
+		{
+			"subject_name": "데이터베이스",
+			"subject_professor": "이영구"
+		},
+		{
+			"subject_name": "데이터베이스",
+			"subject_professor": "김태연"
+		},
+		{
+			"subject_name": "데이터분석캡스톤디자인",
+			"subject_professor": "이원희"
+		},
+		{
+			"subject_name": "데이터분석캡스톤디자인",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "데이터분석캡스톤디자인",
+			"subject_professor": "박상근"
+		},
+		{
+			"subject_name": "데이터사이언스및시각화",
+			"subject_professor": "이원희"
+		},
+		{
+			"subject_name": "데이터센터프로그래밍",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "독립심화학습1(소프트웨어융합학과)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "독립심화학습1(소프트웨어융합학과)",
+			"subject_professor": "박경문"
+		},
+		{
+			"subject_name": "독립심화학습1(컴퓨터공학)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "독립심화학습1(컴퓨터공학)",
+			"subject_professor": "박경문"
+		},
+		{
+			"subject_name": "독립심화학습2(소프트웨어융합학과)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "독립심화학습2(소프트웨어융합학과)",
+			"subject_professor": "정재윤"
+		},
+		{
+			"subject_name": "독립심화학습2(컴퓨터공학과)",
+			"subject_professor": "박경문"
+		},
+		{
+			"subject_name": "디자인적사고",
+			"subject_professor": "박광훈"
+		},
+		{
+			"subject_name": "디자인적사고",
+			"subject_professor": "강형엽"
+		},
+		{
+			"subject_name": "디자인적사고",
+			"subject_professor": "이승규"
+		},
+		{
+			"subject_name": "디자인적사고",
+			"subject_professor": "우탁"
+		},
+		{
+			"subject_name": "딥러닝",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "로봇센서데이터처리",
+			"subject_professor": "황효석"
+		},
+		{
+			"subject_name": "로봇프로그래밍",
+			"subject_professor": "황효석"
+		},
+		{
+			"subject_name": "리눅스시스템프로그래밍",
+			"subject_professor": "조진성"
+		},
+		{
+			"subject_name": "멀티미디어시스템",
+			"subject_professor": "박광훈"
+		},
+		{
+			"subject_name": "멀티미디어처리",
+			"subject_professor": "박광훈"
+		},
+		{
+			"subject_name": "모바일프로그래밍",
+			"subject_professor": "안기옥"
+		},
+		{
+			"subject_name": "미래자동차·로봇캡스톤디자인",
+			"subject_professor": "황효석"
+		},
+		{
+			"subject_name": "빅데이터프로그래밍",
+			"subject_professor": "이해준"
+		},
+		{
+			"subject_name": "소프트웨어가치탐구",
+			"subject_professor": ""
+		},
+		{
+			"subject_name": "소프트웨어가치탐구",
+			"subject_professor": ""
+		},
+		{
+			"subject_name": "소프트웨어개발방법및도구",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "소프트웨어공학",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "소프트웨어공학",
+			"subject_professor": "허의남"
+		},
+		{
+			"subject_name": "소프트웨어융합개론",
+			"subject_professor": "오승재"
+		},
+		{
+			"subject_name": "소프트웨어융합캡스톤디자인",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "소프트웨어융합캡스톤디자인",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "실감미디어캡스톤디자인",
+			"subject_professor": "우탁"
+		},
+		{
+			"subject_name": "실전기계학습",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "알고리즘분석",
+			"subject_professor": "한치근"
+		},
+		{
+			"subject_name": "알고리즘분석",
+			"subject_professor": "한치근"
+		},
+		{
+			"subject_name": "연구연수활동1(컴퓨터공학)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "연구연수활동2(컴퓨터공학)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "영상처리",
+			"subject_professor": "김휘용"
+		},
+		{
+			"subject_name": "오픈소스SW개발",
+			"subject_professor": "진성욱"
+		},
+		{
+			"subject_name": "운영체제",
+			"subject_professor": "조진성"
+		},
+		{
+			"subject_name": "운영체제",
+			"subject_professor": "황효석"
+		},
+		{
+			"subject_name": "운영체제",
+			"subject_professor": "김범석"
+		},
+		{
+			"subject_name": "웹/파이선프로그래밍",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "웹/파이선프로그래밍",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "웹/파이선프로그래밍",
+			"subject_professor": "박상근"
+		},
+		{
+			"subject_name": "웹서비스프로그래밍",
+			"subject_professor": "안기옥"
+		},
+		{
+			"subject_name": "융합연구1",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "융합연구3",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "융합연구4",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "융합연구5",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "융합연구6",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "이산구조",
+			"subject_professor": "김휘용"
+		},
+		{
+			"subject_name": "이산구조",
+			"subject_professor": "정태충"
+		},
+		{
+			"subject_name": "인공지능개론",
+			"subject_professor": "박성배"
+		},
+		{
+			"subject_name": "인공지능과게임프로그래밍",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "인공지능수학",
+			"subject_professor": "이승규"
+		},
+		{
+			"subject_name": "인공지능프로그래밍",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "자료구조",
+			"subject_professor": "박성배"
+		},
+		{
+			"subject_name": "자료구조",
+			"subject_professor": "박성배"
+		},
+		{
+			"subject_name": "자료구조",
+			"subject_professor": "이상훈"
+		},
+		{
+			"subject_name": "정보보호",
+			"subject_professor": "허의남"
+		},
+		{
+			"subject_name": "졸업논문(소프트웨어융합)",
+			"subject_professor": "이대호"
+		},
+		{
+			"subject_name": "졸업논문(컴퓨터공학전공)",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "체감형기술이론및실습",
+			"subject_professor": "전석희"
+		},
+		{
+			"subject_name": "최신기술콜로키움1",
+			"subject_professor": "서우석"
+		},
+		{
+			"subject_name": "최신기술콜로키움2",
+			"subject_professor": "서우석"
+		},
+		{
+			"subject_name": "최신기술프로젝트1",
+			"subject_professor": "이해준"
+		},
+		{
+			"subject_name": "최신기술프로젝트2",
+			"subject_professor": "김재홍"
+		},
+		{
+			"subject_name": "캡스톤디자인1",
+			"subject_professor": "조진성"
+		},
+		{
+			"subject_name": "캡스톤디자인2",
+			"subject_professor": "배성호"
+		},
+		{
+			"subject_name": "컴퓨터구조",
+			"subject_professor": "김성태"
+		},
+		{
+			"subject_name": "컴퓨터구조",
+			"subject_professor": "박경문"
+		},
+		{
+			"subject_name": "컴퓨터구조",
+			"subject_professor": "정연모"
+		},
+		{
+			"subject_name": "컴퓨터그래픽스",
+			"subject_professor": "이승규"
+		},
+		{
+			"subject_name": "컴퓨터네트워크",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "컴퓨터네트워크",
+			"subject_professor": "유인태"
+		},
+		{
+			"subject_name": "컴퓨터네트워크",
+			"subject_professor": "허의남"
+		},
+		{
+			"subject_name": "컴퓨터네트워크",
+			"subject_professor": "김정근"
+		},
+		{
+			"subject_name": "컴퓨터비젼",
+			"subject_professor": "이승규"
+		},
+		{
+			"subject_name": "클라우드컴퓨팅",
+			"subject_professor": "김재홍"
+		},
+		{
+			"subject_name": "풀스택서비스네트워킹",
+			"subject_professor": "이성원"
+		},
+		{
+			"subject_name": "프로그래밍언어구조론",
+			"subject_professor": "박성배"
+		},
+		{
+			"subject_name": "회로와신호",
+			"subject_professor": "이대호"
+		}
+	]
+}
