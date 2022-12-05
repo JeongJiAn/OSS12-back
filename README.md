@@ -59,7 +59,7 @@
 2. DB 구축
 ```
 mysql> create database db_khu;
-mysql> create user 'user01'@'%' identified by '1234';
+mysql> create user 'user01'@'%' identified by 'Oss2022-12';
 mysql> grant all on db_khu.* to 'user01'@'%';
 ```
 3. Server source code clone
