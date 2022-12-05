@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="khu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/khu_jar</output-path>
+    <root id="archive" name="khu.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-8.0.29" />
+    </root>
+  </artifact>
+</component>
