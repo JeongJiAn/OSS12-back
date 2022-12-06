@@ -9,6 +9,7 @@
 ## Getting Started / Installation
 - Spring (자바 11, gradle)
 - MySQL 8.0
+- nodejs WebSocket
 - AWS EC2
 0. EC2 인스턴스 생성 및 설정<br>
     강의 자료를 따라 EC2 인스턴스를 생성<br>
@@ -87,7 +88,13 @@ java -jar ./OSS12-back/khu/khu/build/libs/khu-0.0.1-SNAPSHOT.jar
 6. 과목 리스트 저장 (최초 실행 한 번만)
     OSS12-back/make_subject_list 폴더 내의<br>
     save_subject_info_into_DB.py 파일 실행
-
+7. nodejs 설치 및 webSocket server 실행
+강의노트를 참고하여 nodejs와 npm, nvm 설치
+./OSS12-back/chat 폴더로 이동
+```
+npm install
+node app.js
+```
 
 ## Software architecture
 ![image](https://user-images.githubusercontent.com/56192209/186587539-60727a37-08da-4803-8f8f-0b92d28a391b.png) <br>
