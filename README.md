@@ -2,13 +2,19 @@
 2022 오픈소스SW개발 프로젝트 12조 backend
 
 ## About the Project
-- Description
-    - 경희대학교 선후배 멘토링 서비스 어플리케이션
+- 프로젝트 소개:
+    - 스프트웨어융합대학 선후배 멘토링 서비스 어플리케이션
     - 채팅 서비스 제공
+    - 멘토와 멘티 간의 1:n 채팅 서비스
 ---
+
+## Software architecture
+![image](https://user-images.githubusercontent.com/94419510/205898707-309e3ed1-0e78-4bac-834b-ad9e129e83c2.png) <br>
+
 ## Getting Started / Installation
 - Spring (자바 11, gradle)
 - MySQL 8.0
+- nodejs WebSocket
 - AWS EC2
 0. EC2 인스턴스 생성 및 설정<br>
     강의 자료를 따라 EC2 인스턴스를 생성<br>
@@ -84,16 +90,28 @@ rm -rf jdk11.rpm
 ```
 java -jar ./OSS12-back/khu/khu/build/libs/khu-0.0.1-SNAPSHOT.jar
 ```
-6. 과목 리스트 저장 (최초 실행 한 번만)
-    OSS12-back/make_subject_list 폴더 내의<br>
-    save_subject_info_into_DB.py 파일 실행
+6. 과목 리스트 저장 (최초 실행 한 번만)<br>
+OSS12-back/make_subject_list 폴더 내의<br>
+save_subject_info_into_DB.py 파일 실행
+7. nodejs 설치 및 webSocket server 실행<br>
+강의노트를 참고하여 nodejs와 npm, nvm 설치
+./OSS12-back/chat 폴더로 이동
+```
+npm install
+node app.js
+```
 
 
-## Software architecture
-![image](https://user-images.githubusercontent.com/56192209/186587539-60727a37-08da-4803-8f8f-0b92d28a391b.png) <br>
 ## E-R Diagram
-![image](https://user-images.githubusercontent.com/56192209/186586905-ba191f88-b1a7-4fb9-8d86-39c5089b1e58.png)
+![image](https://user-images.githubusercontent.com/94419510/205899666-463b1003-aedc-43c4-8a92-430f7ca75cdb.png)
 ## Flow Chart
-![2](https://user-images.githubusercontent.com/56192209/186589396-cd79a440-dfc0-4bdc-b202-0f18c866481b.png)
+![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
 
 ---
+<br><br>
+ ## License
+ Distributed under the MIT License. [LICENSE.txt](https://github.com/JeongJiAn/OSS12-front/files/10165693/LICENSE.txt)
+
+<br><br>
+## Contact
+Email: jian0219@khu.ac.kr
