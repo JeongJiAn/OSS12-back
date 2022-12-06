@@ -99,7 +99,7 @@ node app.js
 ## Software architecture
 ![image](https://user-images.githubusercontent.com/94419510/205898707-309e3ed1-0e78-4bac-834b-ad9e129e83c2.png) <br>
 ## E-R Diagram
-![image](https://user-images.githubusercontent.com/56192209/186586905-ba191f88-b1a7-4fb9-8d86-39c5089b1e58.png)
+![image](https://user-images.githubusercontent.com/94419510/205899666-463b1003-aedc-43c4-8a92-430f7ca75cdb.png)
 ## Flow Chart
 ![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
 
