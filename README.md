@@ -108,12 +108,20 @@ node app.js
 ```
 
 
-## E-R Diagram
+#### Software architecture
+![image](https://user-images.githubusercontent.com/94419510/205898707-309e3ed1-0e78-4bac-834b-ad9e129e83c2.png) <br>
+## Usage
+#### E-R Diagram
 ![image](https://user-images.githubusercontent.com/94419510/205899666-463b1003-aedc-43c4-8a92-430f7ca75cdb.png)
-## Flow Chart
+#### Flow Chart
 ![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
 
----
+<br><br>
+## Roadmap
+- [x] Add node server for chatroom
+- [x] Add Spring for Application Server
+- [x] Add EC2 for Elistic IP
+- [x] Set DB
 <br><br>
  ## License
  Distributed under the MIT License. [LICENSE.txt](https://github.com/JeongJiAn/OSS12-front/files/10165693/LICENSE.txt)
