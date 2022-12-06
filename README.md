@@ -86,8 +86,8 @@ rm -rf jdk11.rpm
 java -jar ./OSS12-back/khu/khu/build/libs/khu-0.0.1-SNAPSHOT.jar
 ```
 6. 과목 리스트 저장 (최초 실행 한 번만)
-    OSS12-back/make_subject_list 폴더 내의<br>
-    save_subject_info_into_DB.py 파일 실행
+OSS12-back/make_subject_list 폴더 내의<br>
+save_subject_info_into_DB.py 파일 실행
 7. nodejs 설치 및 webSocket server 실행
 강의노트를 참고하여 nodejs와 npm, nvm 설치
 ./OSS12-back/chat 폴더로 이동
