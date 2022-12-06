@@ -108,3 +108,10 @@ node app.js
 ![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
 
 ---
+<br><br>
+ ## License
+ Distributed under the MIT License. [LICENSE.txt](https://github.com/JeongJiAn/OSS12-front/files/10165693/LICENSE.txt)
+
+<br><br>
+## Contact
+Email: jian0219@khu.ac.kr
