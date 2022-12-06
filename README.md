@@ -101,6 +101,7 @@ node app.js
 ## E-R Diagram
 ![image](https://user-images.githubusercontent.com/56192209/186586905-ba191f88-b1a7-4fb9-8d86-39c5089b1e58.png)
 ## Flow Chart
-![2](https://user-images.githubusercontent.com/56192209/186589396-cd79a440-dfc0-4bdc-b202-0f18c866481b.png)
+![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
+
 
 ---
