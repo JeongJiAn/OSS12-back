@@ -2,10 +2,15 @@
 2022 오픈소스SW개발 프로젝트 12조 backend
 
 ## About the Project
-- Description
-    - 경희대학교 선후배 멘토링 서비스 어플리케이션
+- 프로젝트 소개:
+    - 스프트웨어융합대학 선후배 멘토링 서비스 어플리케이션
     - 채팅 서비스 제공
+    - 멘토와 멘티 간의 1:n 채팅 서비스
 ---
+
+## Software architecture
+![image](https://user-images.githubusercontent.com/94419510/205898707-309e3ed1-0e78-4bac-834b-ad9e129e83c2.png) <br>
+
 ## Getting Started / Installation
 - Spring (자바 11, gradle)
 - MySQL 8.0
@@ -96,12 +101,17 @@ npm install
 node app.js
 ```
 
-## Software architecture
-![image](https://user-images.githubusercontent.com/94419510/205898707-309e3ed1-0e78-4bac-834b-ad9e129e83c2.png) <br>
+
 ## E-R Diagram
 ![image](https://user-images.githubusercontent.com/94419510/205899666-463b1003-aedc-43c4-8a92-430f7ca75cdb.png)
 ## Flow Chart
 ![flow chart](https://user-images.githubusercontent.com/113916318/205890469-9020d47a-9438-4be1-ab39-e4a7b7a641f1.png)
 
-
+<br><br>
+ ## License
+ Distributed under the MIT License. [LICENSE.txt] (https://github.com/JeongJiAn/OSS12back/blob/8bf3d0f1f64003d30c2c07b527154f5db90a8f59/LICENSE.txt)
+ 
+ <br><br>
+## Contact
+Email: jian0219@khu.ac.kr
 ---
